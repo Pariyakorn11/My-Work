@@ -1,0 +1,10 @@
+D:\VB\Mywork1\Mywork1\Mywork1\bin\Debug\Mywork1.exe
+D:\VB\Mywork1\Mywork1\Mywork1\bin\Debug\Mywork1.pdb
+D:\VB\Mywork1\Mywork1\Mywork1\bin\Debug\Mywork1.xml
+D:\VB\Mywork1\Mywork1\Mywork1\obj\x86\Debug\Mywork1.Resources.resources
+D:\VB\Mywork1\Mywork1\Mywork1\obj\x86\Debug\Mywork1.vbproj.GenerateResource.Cache
+D:\VB\Mywork1\Mywork1\Mywork1\obj\x86\Debug\Mywork1.exe
+D:\VB\Mywork1\Mywork1\Mywork1\obj\x86\Debug\Mywork1.xml
+D:\VB\Mywork1\Mywork1\Mywork1\obj\x86\Debug\Mywork1.pdb
+D:\VB\Mywork1\Mywork1\Mywork1\obj\x86\Debug\Mywork1.frmLab1.resources
+D:\VB\Mywork1\Mywork1\Mywork1\obj\x86\Debug\Mywork1.frmLab2.resources
